@@ -38,6 +38,9 @@ More projects coming soon...
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
 - **Languages:** Python, Bash
 
+
+Updated README to trigger CI pipeline.
+
 ---
 
 ## 📌 About Me
