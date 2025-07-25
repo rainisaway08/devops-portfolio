@@ -1,3 +1,4 @@
+# Triggering CI manually
 name: CI
 
 on:
