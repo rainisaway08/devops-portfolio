@@ -4,4 +4,6 @@ def handler():
     return "Hello from DevOps Pipeline!"
 
 if __name__ == "__main__":
-    print(handler())
+    print(handler())  
+
+# trigger CI
